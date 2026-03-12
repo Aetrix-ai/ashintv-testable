@@ -18,7 +18,7 @@ export default function App() {
             </span>
           </div>
           <Badge variant="outline" className="text-xs font-mono text-cyan-400 border-cyan-400/30 bg-cyan-400/5">
-            ● Ready
+            ● Ready by Ashin
           </Badge>
         </div>
       </header>
