@@ -18,7 +18,7 @@ export default function App() {
             </span>
           </div>
           <Badge variant="outline" className="text-xs font-mono text-cyan-400 border-cyan-400/30 bg-cyan-400/5">
-            ● Ready by Ashin
+            ● Ready by Ashin T 
           </Badge>
         </div>
       </header>
@@ -36,7 +36,7 @@ export default function App() {
 
           <Badge variant="outline" className="font-mono text-xs text-cyan-400 border-cyan-400/25 bg-cyan-400/5 px-4 py-1.5 rounded-full tracking-widest">
             <span className="w-1.5 h-1.5 rounded-full bg-cyan-400 mr-2 animate-pulse inline-block" />
-            New Aetrix Project by Ashin T V
+            New Aetrix Project by Ashin T V , suoerrr
           </Badge>
 
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-black tracking-tighter leading-none">
